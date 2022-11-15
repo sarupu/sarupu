@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Sarp👨‍💻</h1>
+
 <h3 align="center">A Front-End Web Developer based in Istanbul, Turkey</h3>
+<p align="center">I love to code and to solve problems. Continuous learning is my second nature!</p>
 
 - 🔭 I’m currently working on **some small-sized web apps.**
 
